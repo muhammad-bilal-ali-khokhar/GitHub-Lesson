@@ -36,4 +36,4 @@ If you want switch to the main branch you can use the following command:
             command 
 git checkout -b master
 
-_________________________________________________________________________________
+__________________________________________________________________________________

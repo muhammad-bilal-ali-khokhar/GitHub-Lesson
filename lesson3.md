@@ -21,3 +21,4 @@ Replace REPOSITORY-NAME with the name of the repository you just cloned.
 
 And that's it! You've successfully cloned the repository to your computer. 
 You can now use Git commands to manage the repository, make changes.
+_________________________________________________________________________________________________
