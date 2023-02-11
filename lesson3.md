@@ -1,3 +1,4 @@
+                            LESSON 3
 However, once you've created a repository on GitHub and set up Git on your computer .
 you can use Git to clone it to your local machine and work with it there.
 
