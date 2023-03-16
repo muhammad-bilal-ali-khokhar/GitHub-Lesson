@@ -19,7 +19,7 @@ for create branch
 git branch branch name 
 
 
-for goto branch
+for create and goto created branch
 git branch -b branchName 
 
 
@@ -30,4 +30,4 @@ git pull --set-upstream origin branchName
 for merge any file
 git merge branchName
 
-_________________________________________________________________
+_______________________________________________________________
